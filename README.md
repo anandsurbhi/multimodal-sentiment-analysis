@@ -1,1 +1,2 @@
 # multimodal-sentiment-analysis
+Abstract: Emotion Detection is an important way for sentiment analysis for various real-world applications. There are several modalities for communication, all of which can give a better understanding of the emotions involved in a conversation. Multimodal emotion detection and sentiment analysis can be very useful because of the availability of various data methods. There has been a lot of work in this domain. In this project, a few papers have been reviewed thoroughly and one of them has been implemented.
