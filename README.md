@@ -12,6 +12,5 @@ Multimodal Corpus of Sentiment Intensity and Subjectivity Analysis (CMU-MOSI) da
 The Context GRU (cGRU) for each modality aimsto capture the context of the conversation by jointly encoding the utterance representation of that modal-ity (at timestamp in the given diagram) (and the previous times-tamp speaker state GRU output of that modality.This accounts for inter-speaker and intra-utterance dependencies to produce an effective context
 
 
-![image](https://user-images.githubusercontent.com/51492488/126368129-6c204423-ea7d-4d64-af45-4400cf1bab30.png)
 ![image](https://user-images.githubusercontent.com/51492488/126368164-733d9430-076a-4b9f-a4f5-eba28fde3a72.png)
 
